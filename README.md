@@ -1,5 +1,6 @@
-## Prateek Singh Bhadouriya
-Trying to figure out whats going on here
+# Prateek Singh Bhadouriya
+I am a Final Year Computer Science Student.
+[https://github.com/PrateekSingh02] is my GitHub Link.
 
 You can use the [editor on GitHub](https://github.com/PrateekSingh02/PrateekSingh02.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
